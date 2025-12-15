@@ -1,6 +1,6 @@
 # WARP Indicator for DankMaterialShell
 
-A sleek system tray widget for [Cloudflare WARP](https://1.1.1.1/) VPN integration in [DankMaterialShell](https://github.com/dankdm/DankMaterialShell).
+A sleek system tray widget for [Cloudflare WARP](https://1.1.1.1/) VPN integration in [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell).
 
 ![WARP Indicator Screenshot](screenshot.png)
 
