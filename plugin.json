@@ -1,0 +1,15 @@
+{
+    "id": "warpIndicator",
+    "name": "WARP Indicator",
+    "description": "Toggle Cloudflare WARP VPN connection",
+    "version": "1.0.0",
+    "author": "Nikola",
+    "type": "widget",
+    "capabilities": ["vpn-control"],
+    "component": "./WarpWidget.qml",
+    "icon": "vpn_lock",
+    "settings": "./WarpSettings.qml",
+    "requires_dms": ">=0.1.0",
+    "requires": ["warp-cli"],
+    "permissions": ["settings_read", "settings_write"]
+}
